@@ -1,6 +1,6 @@
 # submark
 
-![GitHub](https://img.shields.io/github/license/okken/submark.svg)
+![PyPI](https://img.shields.io/pypi/v/submark.svg) ![GitHub](https://img.shields.io/github/license/okken/submark.svg) 
 
 Subset of Markdown
 
